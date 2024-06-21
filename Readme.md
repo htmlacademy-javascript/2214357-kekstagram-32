@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Виталий Макаров](https://up.htmlacademy.ru/javascript/32/user/2214357).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов](https://https://htmlacademy.ru/profile/crazer).
 
 ---
 
